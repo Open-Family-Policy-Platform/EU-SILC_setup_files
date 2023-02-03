@@ -1,6 +1,6 @@
 # EU-SILC Setup Files
 
-These are modified versions of the Setup files produced and distributed by GESIS (https://www.gesis.org/en/missy/materials/EU-SILC/setups).
+These are modified versions of the Setup files produced and distributed by [GESIS](https://www.gesis.org/en/missy/materials/EU-SILC/setups).
 
 The only modification to the original GESIS files are in the specification of directories in the individual files.
 
