@@ -9,6 +9,6 @@ Setup_ver_2022_03 is written for the spring 2022 EU-SILC data release.
 
 To run:
 1. unzip the encrypted CROSS file you received from Eurostat 
-2. open SILC_setup_cross_ver_2021_03 / SILC_setup_cross_ver_2022_03
+2. open SILC_setup_cross_ver_2021_03 / SILC_setup_cross_ver_2022_03 / SILC_setup_cross_ver_2022_release2
 3. set your directories
-4. run SILC_setup_cross_ver_2021_03 / SILC_setup_cross_ver_2022_03
+4. run SILC_setup_cross_ver_2021_03 / SILC_setup_cross_ver_2022_03 / SILC_setup_cross_ver_2022_release2
